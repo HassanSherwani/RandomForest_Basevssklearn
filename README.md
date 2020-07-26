@@ -1,13 +1,22 @@
 # RandomForest_Basevssklearn
-an exercise to compare custom Random Forest vs sklearn implemented Random Forest model
+
+An exercise to compare custom Random Forest vs sklearn implemented Random Forest model
+
+# Modules
+
+pandas, sklearn(for comparison only), numpy, string, re, spacy, nltk
 
 ### References
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 - https://machinelearningmastery.com/implement-random-forest-scratch-python/
 
 - https://www.python-course.eu/Random_Forests.php
 
 - https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249
+
+- https://www.youtube.com/watch?v=WvmPnGmCaIM
 
 - https://medium.com/@amaarora/implementing-random-forests-from-scratch-using-object-oriented-programming-in-python-in-5-simple-2f788afb9dbb
 
