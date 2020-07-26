@@ -4,7 +4,7 @@ An exercise to compare custom Random Forest vs sklearn implemented Random Forest
 
 # Modules
 
-pandas, sklearn(for comparison only), numpy, string, re, spacy, nltk
+pandas, sklearn(for comparison only), numpy, math.
 
 ### References
 
